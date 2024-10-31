@@ -16,7 +16,8 @@
 </script>
 
 <div>
-	<h1>May Allah Almighty Bless You. Ameen!</h1>
+	<h1>Assalaam-o-Alaekum!</h1>
+	<p>May Allah Almighty Bless You. Ameen!</p>
 	<button type="button" on:click={toggleDarkMode}>
 		{isDarkMode ? 'Switch to Light Mode' : 'Switch to Dark Mode'}
 	</button>
